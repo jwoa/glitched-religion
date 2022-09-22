@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/jason/.nvm/versions/node/v16.15.1/bin/node /Users/jason/.yarn/bin/yarn.js add next react react-dom
+
+PATH: 
+  /Users/jason/.yarn/bin:/Users/jason/.config/yarn/global/node_modules/.bin:/Users/jason/.nvm/versions/node/v16.15.1/bin:/Users/jason/bin:/usr/local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/jason/.yarn/bin:/Users/jason/.config/yarn/global/node_modules/.bin:/Users/jason/.nvm/versions/node/v16.15.1/bin:/Users/jason/bin:/opt/homebrew/bin:/opt/homebrew/sbin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.15.1
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/jason/Desktop/Projects/glitched-religion/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/jason/.yarn/lib/cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (/Users/jason/.yarn/lib/cli.js:310:30)
+      at /Users/jason/.yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
